@@ -130,4 +130,4 @@ async def generate_response(ctx, *, query: str):
     await generating_message.delete()
 
 
-bot.run('MTE4NDUyMzI0MTAyNTQ1MDA2NQ.GIRhmg._iW3BPQpW73W6bkFPuOH9PgUGO_hD8QNZKcn5k')
+bot.run('')
